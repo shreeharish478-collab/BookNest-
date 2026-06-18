@@ -71,20 +71,20 @@ BookNest/
 
 ### Setup Steps
 
-1. Clone the repository:
+1. Clone the repository:booknest
    git clone https://github.com/yourusername/BookNest.git
 
-2. Move the project folder into your web server directory.
+3. Move the project folder into your web server directory.
 
-3. Create a MySQL database.
+4. Create a MySQL database.
 
-4. Import the provided SQL file into the database.
+5. Import the provided SQL file into the database.
 
-5. Configure database credentials in the PHP configuration file.
+6. Configure database credentials in the PHP configuration file.
 
-6. Start Apache and MySQL services.
+7. Start Apache and MySQL services.
 
-7. Open your browser and visit:
+8. Open your browser and visit:
    http://localhost/BookNest
 
 ## 🎯 Project Objectives
