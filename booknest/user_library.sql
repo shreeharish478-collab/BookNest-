@@ -1,0 +1,6 @@
+CREATE TABLE user_library (
+id INT AUTO_INCREMENT PRIMARY KEY,
+user_id INT,
+book_id INT,
+saved_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
